@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  TimeRangeChecker
+
+  Created by 福原雅隆 on 2024/10/08.
+  
+*/
+"ResultsTitle" = "結果一覧";
+"ResetData" = "データリセット";
+"StartTime" = "開始時刻：";
+"EndTime" = "終了時刻：";
+"TargetTime" = "対象時刻：";
+"ResultText" = "結果：";
+"WithinTimeRange" = "時間範囲内";
+"OutsideTimeRange" = "時間範囲外";
+"Clock" = "時";
+"TimeRangeCheckeXplanation" = "指定時刻が開始時刻と終了時刻の範囲内かどうかを調べます。";
+"TimeRangeCheck" = "結果";
+"OK" = "OK";

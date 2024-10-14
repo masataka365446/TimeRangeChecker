@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "終了時刻"; ObjectID = "2yh-4U-jhg"; */
+"2yh-4U-jhg.text" = "終了時刻";
+
+/* Class = "UILabel"; text = "指定時刻"; ObjectID = "ArF-nK-aaf"; */
+"ArF-nK-aaf.text" = "指定時刻";
+
+/* Class = "UIButton"; configuration.title = "実行する"; ObjectID = "nce-Wv-9lk"; */
+"nce-Wv-9lk.configuration.title" = "調べる";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nce-Wv-9lk"; */
+"nce-Wv-9lk.normalTitle" = "調べる";
+
+/* Class = "UILabel"; text = "開始時刻"; ObjectID = "qgJ-qm-p7g"; */
+"qgJ-qm-p7g.text" = "開始時刻";
